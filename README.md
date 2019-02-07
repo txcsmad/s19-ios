@@ -1,4 +1,4 @@
-# MAD iOS Workshops, Fall 2018
+# MAD iOS Workshops, Spring 2019
 
 ## What is this?
 
@@ -8,11 +8,7 @@ These are the materials for MAD's Fall 2018 iOS Workshops. MAD (Mobile App Devel
 
 |Day|Time|Location|
 |---|---|---|
-|Thursday|5:00 - 6:30|5.302|
-
-Note: On the dates listed below, we'll be meeting in room 6.202:
-
-9/6, 9/13, 10/11, 10/18
+|Thursday|5:00 - 6:30|6.202|
 
 ## What do I need?
 
