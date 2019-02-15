@@ -2,8 +2,8 @@
 //  RoundButton.swift
 //  Calculator
 //
-//  Created by Jesse Tipton on 2/5/18.
-//  Copyright © 2018 MAD. All rights reserved.
+//  Created by Avinash on 2/14/19.
+//  Copyright © 2019 SecondGenPESH. All rights reserved.
 //
 
 import UIKit
@@ -28,13 +28,9 @@ import UIKit
     }
     
     func setup() {
-        //        if circular {
-        //            NSLayoutConstraint.activate([self.widthAnchor.constraint(equalTo: self.heightAnchor)])
-        //        } else {
-        //            NSLayoutConstraint.activate([self.widthAnchor.constraint(equalTo: self.heightAnchor, multiplier: 2)])
-        //        }
         layer.cornerRadius = frame.height / 2
+        
     }
     
+    
 }
-

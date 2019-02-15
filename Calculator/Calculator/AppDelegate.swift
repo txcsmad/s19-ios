@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  practicecalc
+//  Calculator
 //
 //  Created by Avinash on 2/14/19.
 //  Copyright © 2019 SecondGenPESH. All rights reserved.
@@ -53,7 +53,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          application to it. This property is optional since there are legitimate
          error conditions that could cause the creation of the store to fail.
         */
-        let container = NSPersistentContainer(name: "practicecalc")
+        let container = NSPersistentContainer(name: "Calculator")
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {
                 // Replace this implementation with code to handle the error appropriately.
